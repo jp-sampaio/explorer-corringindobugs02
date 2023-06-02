@@ -17,4 +17,4 @@ Foi desenvolvido esse projeto no programa Explorer da Rocketseat no stage 02.
 ## 👁 View
 Aqui você pode visualizar o layout do projeto
 <a 
-  href="https://www.figma.com/file/eOa762zuNUD2DQ9fUKVVMK/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&t=GRDOWStd5cUjNWtw-1" target="_blank">clique aqui</a>
+  href="https://www.figma.com/file/aJydyfSOXlyduDuyFrXPM7/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&t=QqMI0Qy3MfK5xSMt-0" target="_blank">clique aqui</a>
